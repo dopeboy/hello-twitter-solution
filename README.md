@@ -1,6 +1,6 @@
 # hello-twitter-solution
 
-This repository contains the solution code to [hello-twitter-exercise](https://github.com/dopeboy/hello-twitter-exercise). 
+This repository contains the solution code to [hello-twitter-exercise](https://github.com/dopeboy/hello-twitter-exercise). It is heavily commented.
 
 The component layout reflects the following sketch:
 
